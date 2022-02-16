@@ -1,3 +1,7 @@
+# Sample React Application for connecting to in-built JIRA REST APIs.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="1642" alt="JIRA-ISSUES" src="https://user-images.githubusercontent.com/89316938/154356824-4a615afb-1426-43ae-b4f4-874ff9342063.png">
