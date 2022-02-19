@@ -73,9 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# JIRA ISSUES 
+### JIRA ISSUES 
 <img width="1642" alt="JIRA-ISSUES" src="https://user-images.githubusercontent.com/89316938/154356824-4a615afb-1426-43ae-b4f4-874ff9342063.png">
 
-# JIRA ISSUE JSON 
+### JIRA ISSUE JSON 
 ![JIRA_IssueJSON](https://user-images.githubusercontent.com/89316938/154785494-b3b28d69-d52f-4f32-a7a4-ccddbec06496.png)
 
