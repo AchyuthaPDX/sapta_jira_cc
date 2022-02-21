@@ -79,3 +79,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### JIRA ISSUE JSON 
 ![JIRA_IssueJSON](https://user-images.githubusercontent.com/89316938/154785494-b3b28d69-d52f-4f32-a7a4-ccddbec06496.png)
 
+For your ref:
+
+
+
+import { Version2Client } from 'jira.js';
+import './App.css';
+
+const client = new Version2Client({
+  host: 'forsapta.atlassian.net',
+  authentication: {
+    basic: {
+      email: 'h.achyutha@gmail.com',
+      apiToken: 'TRhIfkKiSm0sZRjThjaeD86E',
+    },
+  },
+});
+export default async function App() {
+  const projects = await client.projects.getAllProjects();
+  console.log(projects);
+}
+
+App();
+
+remember to create a new react app, add npm install jira.js without fail for this to start working 
