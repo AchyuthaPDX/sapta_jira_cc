@@ -14,7 +14,7 @@ var jira = new JiraClient({
     host: "test1234566.atlassian.net",
     basic_auth: {
         email: "codepythongo@gmail.com",
-        api_token: "pWLXx5a4gYXiBHuIBM1ND583",
+        api_token: "apitoken",
     },
 });
 
